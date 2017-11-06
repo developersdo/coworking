@@ -4,7 +4,7 @@
 
 Listing of coworking spaces or public place to work across the Dominican Republic.
 
-**[:heavy_plus_sign: Add a Space](issues/new)**
+**[:heavy_plus_sign: Add a Space](https://github.com/developersdo/coworking/issues/new)**
 
 </div>
 
@@ -46,7 +46,7 @@ Listing of coworking spaces or public place to work across the Dominican Republi
 
 ## In Santiago
 
-**[:heavy_plus_sign: Add a Space](issues/new)**
+**[:heavy_plus_sign: Add a Space](https://github.com/developersdo/coworking/issues/new)**
 
 ---
 
