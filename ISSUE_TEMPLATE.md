@@ -1,0 +1,10 @@
+ - **Name**: 
+ - **URL**:
+ - **Is it a public place?**:
+ - **Is it a coworking space?**:
+ - **Is is safe to work with a laptop?**:
+ - **Provide a brief description**:
+ - **Does it have free Internet?**:
+ - **Does it have Power Plugs?**:
+ - **Does it have Air Conditioning?**:
+ - **What are the price (day, week, month)?**:
