@@ -12,8 +12,8 @@ Listing of coworking spaces or public place to work across the Dominican Republi
 
 ### Legend
 
- | `✓` yes | `×` no | `?` unknown |
- | ------- | ------ | ----------- |
+ | `✓` yes | `×` no | `~` yes, see notes | `?` unknown |
+ | ------- | ------ | ------------------ | ----------- |
  
 ---
 
@@ -23,10 +23,10 @@ Listing of coworking spaces or public place to work across the Dominican Republi
  
      This is a typical IKEA restaurant that serves lunch and dinner. Also, it has a cafeteria. Please note that IKEA and its restaurant open at 11am.
 
-    - **✓ Public Place**
-    - ✓ Internet <sup>1</sup>
-    - ✓ Power Plugs <sup>2</sup>
-    - ✓ Air Conditioning
+    - **`✓` Public Place**
+    - `✓` Internet <sup>1</sup>
+    - `~` Power Plugs <sup>2</sup>
+    - `✓` Air Conditioning
 
     <sup>1</sup> The average speed is 5MB/down and 1MB/up.
    
@@ -36,10 +36,10 @@ Listing of coworking spaces or public place to work across the Dominican Republi
 
     A location that provides open spaces, dedicated spaces and closed offices. They provide the essentials plus kitchen, water, coffee, lockers, break room, 1st-class furnitures, messaging services and more.
 
-    - **✓ Coworking Space**
-    - ✓ Internet
-    - ✓ Power Plugs
-    - ✓ Air Conditioning
+    - **`✓` Coworking Space**
+    - `✓` Internet
+    - `✓` Power Plugs
+    - `✓` Air Conditioning
 
 ## In Santiago
 
