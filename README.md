@@ -12,8 +12,8 @@ Listing of coworking spaces or public place to work across the Dominican Republi
 
 ### Legend
 
- | `✓` yes | `×` no | `~` yes, see notes | `?` unknown |
- | ------- | ------ | ------------------ | ----------- |
+ | `✓` yes | `×` no | `~` yes, see notes | `?` unknown | :round_pushpin: map |
+ | ------- | ------ | ------------------ | ----------- | ------------------- |
  
 ---
 
