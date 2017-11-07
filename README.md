@@ -19,6 +19,17 @@ Listing of coworking spaces or public place to work across the Dominican Republi
 
 ## In Santo Domingo
 
+  - **[Chez Space](https://chezspace.com/)** [:round_pushpin:](https://goo.gl/maps/gacVbHZnwb12)
+  
+    - **Coworking Space**
+    - **Price**: From $40 USD/month <sup>1</sup>.
+    - **Hours**: 9AM–8PM (mon-fri), 9AM-1PM (sat), closed on sunday.
+    - **`✓`** Internet (↓`?`/↑`?`).
+    - **`✓`** Power Plugs.
+    - **`✓`** Air Conditioning.
+    
+    <sup>1</sup> They don't specify if they offer a day pass.
+
   - **[COffice.DO](http://www.coffice.do/)** [:round_pushpin:](https://goo.gl/maps/RboVPHnfTiD2)
   
     - **Coworking Space**
