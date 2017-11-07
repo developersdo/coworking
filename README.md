@@ -24,7 +24,7 @@ Listing of coworking spaces or public place to work across the Dominican Republi
     - **Coworking Space**
     - **Price**: **`?`** <sup>1</sup>
     - **Hours**: 8AM–7PM (mon-fri), 2PM-6PM (sat), closed on sunday.
-    - **`✓`** Internet (↓`?`/↑`?`).
+    - **`✓`** Internet (↓`?`/↑`?`).
     - **`✓`** Power Plugs
     - **`✓`** Air Conditioning
     
