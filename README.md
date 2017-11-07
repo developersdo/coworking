@@ -43,12 +43,23 @@ Listing of coworking spaces or public place to work across the Dominican Republi
    
     <sup>1</sup> Power Plugs are limited to 2 socket with 2 output each. They are located near to the lactation room in the back.
 
+  - **[La Mochila](http://www.lamochila-rd.com/)** [:round_pushpin:](https://goo.gl/maps/qAfk18AZsuD2)
+  
+    - **Coworking Space**
+    - **Price**: $10 USD/day, $50 USD/week, $150 USD/month.
+    - **Hours**: 9AM–7PM (mon-fri), closed on weekends <sup>1</sup>.
+    - **`✓`** Internet (↓`?`/↑`?`).
+    - **`✓`** Power Plugs
+    - **`✓`** Air Conditioning
+    
+    <sup>1</sup> Their entry on Google Maps shows that their venue is also open Saturday. However, their website said it is closed on weekends. In another section of their public website they suggest to be also open on Sunday.
+
   - **[PYHEX](http://www.pyhexwork.com/)** [:round_pushpin:](https://goo.gl/maps/pbHrYkx5aVS2)
 
     A location that provides open spaces, dedicated spaces and closed offices. They provide the essentials plus kitchen, water, coffee, lockers, break room, 1st-class furnitures, messaging services and more.
 
     - **Coworking Space**
-    - **Price**: $13/day or $50/week <sup>1</sup>
+    - **Price**: $13 USD/day or $50 USD/week <sup>1</sup>
     - **Hours**: **`?`**.
     - **`✓`** Internet (↓`?`/↑`?`).
     - **`✓`** Power Plugs
