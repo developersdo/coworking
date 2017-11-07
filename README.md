@@ -45,6 +45,8 @@ Listing of coworking spaces or public place to work across the Dominican Republi
 
   - **[La Mochila](http://www.lamochila-rd.com/)** [:round_pushpin:](https://goo.gl/maps/qAfk18AZsuD2)
   
+    Created for entrepreneurs, freelancers, creative people and startups, the coworking space La Mochila aims to create a friendly space to work, create, and connect people.
+  
     - **Coworking Space**
     - **Price**: $10 USD/day, $50 USD/week, $150 USD/month.
     - **Hours**: 9AM–7PM (mon-fri), closed on weekends <sup>1</sup>.
