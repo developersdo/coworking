@@ -40,6 +40,17 @@ Listing of coworking spaces or public place to work across the Dominican Republi
     - **`✓`** Air Conditioning.
     
     <sup>1</sup> The first visit is free, however prices for their plans are unknown.
+    
+  - **[Freeworking.do](https://freeworking.do/)** [:round_pushpin:](https://goo.gl/maps/3fUz4jJ2M9w)
+  
+    - **Coworking Space**.
+    - **Price**: RD$400/day, RD$3,995/month, RD$5,000/month, RD$6,000/month, RD$ 7,000/month <sup>1</sup>
+    - **Hours**: 8AM–8PM (mon-fri), 9AM–2PM (sat), closed on sunday.
+    - **`✓`** Internet (↓100Mbps/↑10Mbps).
+    - **`✓`** Power Plugs.
+    - **`✓`** Air Conditioning.
+    
+    <sup>1</sup> The monthly prices are for membership which has an extra cost of RD$500.
 
   - **[IKEA Restaurant](https://www.ikea.com.do/santodomingo/desktop/es_do/restaurante)** [:round_pushpin:](https://goo.gl/maps/2LAzYTHsYSK2)
  
@@ -48,11 +59,13 @@ Listing of coworking spaces or public place to work across the Dominican Republi
     - **Public Place**.
     - **Price**: free.
     - **Hours**: 11AM–9PM (mon-fri), 10AM–10PM (sat), 10AM–8PM (sun).
-    - **`✓`** Internet (↓5MB/↑1MB).
-    - **`~`** Power Plugs <sup>1</sup>.
+    - **`✓`** Internet (↓5Mbps/↑1Mbps) <sup>1</sup>.
+    - **`~`** Power Plugs <sup>2</sup>.
     - **`✓`** Air Conditioning.
-   
-    <sup>1</sup> Power Plugs are limited to 2 socket with 2 output each. They are located near to the lactation room in the back.
+    
+    <sup>1</sup> Seems to be an average per user.
+    
+    <sup>2</sup> Power Plugs are limited to 2 socket with 2 output each. They are located near to the lactation room in the back.
 
   - **[La Mochila](http://www.lamochila-rd.com/)** [:round_pushpin:](https://goo.gl/maps/qAfk18AZsuD2)
   
