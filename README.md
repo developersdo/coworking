@@ -1,6 +1,6 @@
 <div align=center>
 
-# Coworking spaces
+# Coworking
 
 Listing of coworking spaces or public place to work across the Dominican Republic.
 
