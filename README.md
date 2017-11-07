@@ -8,6 +8,15 @@ Listing of coworking spaces or public place to work across the Dominican Republi
 
 </div>
 
+---
+
+### Legend
+
+ | `✓` yes | `×` no | `?` unknown |
+ | ------- | ------ | ----------- |
+ 
+---
+
 ## In Santo Domingo
 
  - **[IKEA Restaurant](https://www.ikea.com.do/santodomingo/desktop/es_do/restaurante)** [:round_pushpin:](https://goo.gl/maps/2LAzYTHsYSK2)
