@@ -86,7 +86,7 @@ Listing of coworking spaces or public place to work across the Dominican Republi
 
     - **Coworking Space**.
     - **Price**: $13 USD/day, $50 USD/week <sup>1</sup>.
-    - **Hours**: **`?`**.
+    - **Hours**: 8AM–6PM (mon-fri).
     - **`✓`** Internet (↓`?`/↑`?`).
     - **`✓`** Power Plugs.
     - **`✓`** Air Conditioning.
