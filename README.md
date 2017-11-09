@@ -85,13 +85,15 @@ Listing of coworking spaces or public place to work across the Dominican Republi
     A location that provides open spaces, dedicated spaces and closed offices. They provide the essentials plus kitchen, water, coffee, lockers, break room, 1st-class furnitures, messaging services and more.
 
     - **Coworking Space**.
-    - **Price**: $13 USD/day, $50 USD/week <sup>1</sup>.
-    - **Hours**: 8AM–6PM (mon-fri).
+    - **Price**: $13 USD/day, $50 USD/week, $200 USD/month <sup>1</sup>.
+    - **Hours**: 8AM–6PM (mon-fri) <sup>2</sup>.
     - **`✓`** Internet (↓`?`/↑`?`).
     - **`✓`** Power Plugs.
     - **`✓`** Air Conditioning.
     
     <sup>1</sup> Theses prices doesn't includes the ITBIS (18%).
+    
+    <sup>2</sup> This will be gradually extended to 24/7.
 
 ## In Santiago
 
