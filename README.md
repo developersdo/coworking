@@ -72,13 +72,17 @@ Listing of coworking spaces or public place to work across the Dominican Republi
     Created for entrepreneurs, freelancers, creative people and startups, the coworking space La Mochila aims to create a friendly space to work, create, and connect people.
   
     - **Coworking Space**.
-    - **Price**: $10 USD/day, $50 USD/week, $150 USD/month.
-    - **Hours**: 9AM–7PM (mon-fri), closed on weekends <sup>1</sup>.
-    - **`✓`** Internet (↓`?`/↑`?`).
+    - **Price**: $10 USD/day, $50 USD/week, $150 USD/month <sup>1</sup>.
+    - **Hours**: 9AM–7PM (mon-sat), closed on sunday.
+    - **`✓`** Internet (↓20Mbps/↑2Mbps) <sup>2</sup>.
     - **`✓`** Power Plugs.
     - **`✓`** Air Conditioning.
     
-    <sup>1</sup> Their entry on Google Maps shows that their venue is also open Saturday. However, their website said it is closed on weekends. In another section of their public website they suggest to be also open on Sunday.
+    Other services: unlimited coffee and water, personal locker, meeting room, printer/scanner and kitchen.
+    
+    <sup>1</sup> First visit free (one free day to try the coworking)!
+    
+    <sup>2</sup> The Internet will be soon upgraded to ↓100Mbps/↑10Mbps with fiber.
 
   - **[PYHEX](http://www.pyhexwork.com/)** [:round_pushpin:](https://goo.gl/maps/pbHrYkx5aVS2)
 
